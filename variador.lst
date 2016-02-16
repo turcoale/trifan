@@ -1,0 +1,170 @@
+eeschema (2013-mar-13)-testing  >> Creation date: sáb 11 may 2013 09:44:33 ART
+#Cmp ( order = Reference )
+| C1         10 nF 400V  
+| C2         10 nF 400V  
+| C3         25 pF       
+| C4         10 uF       
+| C5         0.1uF       
+| C6         0,1 uF      
+| C7         25 pF       
+| C8         0.1uF       
+| C9         0.1uF       
+| C10        C0.1 uF     
+| C11        470 uF      
+| C12        0.33 uF     
+| C13        10 nF 400V  
+| C14        0.1 uF      
+| C15        10 uF       
+| C16        C           
+| C17        C0.1 uF     
+| C18        C0.1 uF     
+| C19        C0.1 uF     
+| C20        C0.1 uF     
+| C21        C0.1 uF     
+| C22        C0.1 uF     
+| CON1       BDM         
+| CON2       CONN_3      
+| CON3       CONN_4      
+| CON4       CONN_3      
+| CON5       CONN_3      
+| CON6       CONN_2      
+| D5         BRIDGE      
+| D6         LED         
+| D7         LED         
+| F1         FUSE        
+| JP1        JUMPER      
+| JP2        JUMPER      
+| JP3        JUMPER      
+| Q1         TRIAC       
+| Q2         TRIAC       
+| Q3         TRIAC       
+| R1         390         
+| R2         39          
+| R3         470         
+| R4         470         
+| R5         10K         
+| R6         SIOV-S14K460
+| R7         10K         
+| R8         10K         
+| R9         4.7M        
+| R10        10k         
+| R11        4.7M        
+| R12        10K         
+| R13        4.7M        
+| R14        10K         
+| R15        390         
+| R16        390         
+| R17        470         
+| R18        680         
+| R19        39          
+| R20        39          
+| R21        680         
+| R22        1000        
+| R23        10K         
+| R24        10K         
+| R25        R           
+| R26        SIOV-S14K460
+| R27        SIOV-S14K460
+| R28        R           
+| R29        R           
+| R30        R           
+| R31        10k         
+| R32        10k         
+| R33        10k         
+| T1         TRANSFO     
+| T2         TRANSFO     
+| U1         MC9S08SH8   
+| U2         LM339       
+| U3         OPTO-TRIAC  
+| U4         OPTO-TRIAC  
+| U5         OPTO-TRIAC  
+| U6         7805        
+| VR4        VR          
+| X1         12 MHZ      
+#End Cmp
+
+#Componentes ( orden = Valor )
+| 0.1uF        C5        
+| 0.1uF        C8        
+| 0.1uF        C9        
+| 0,1 uF       C6        
+| 0.1 uF       C14       
+| 0.33 uF      C12       
+| 10 nF 400V   C1        
+| 10 nF 400V   C2        
+| 25 pF        C3        
+| 10 uF        C4        
+| 25 pF        C7        
+| C0.1 uF      C10       
+| 470 uF       C11       
+| 10 nF 400V   C13       
+| 10 uF        C15       
+| C            C16       
+| C0.1 uF      C17       
+| C0.1 uF      C18       
+| C0.1 uF      C19       
+| C0.1 uF      C20       
+| C0.1 uF      C21       
+| C0.1 uF      C22       
+| BDM          CON1      
+| CONN_3       CON2      
+| CONN_4       CON3      
+| CONN_3       CON4      
+| CONN_3       CON5      
+| CONN_2       CON6      
+| BRIDGE       D5        
+| LED          D6        
+| LED          D7        
+| FUSE         F1        
+| JUMPER       JP1       
+| JUMPER       JP3       
+| JUMPER       JP2       
+| TRIAC        Q1        
+| TRIAC        Q2        
+| TRIAC        Q3        
+| 39           R2        
+| 39           R19       
+| 39           R20       
+| 390          R1        
+| 390          R15       
+| 390          R16       
+| 470          R3        
+| 470          R4        
+| 470          R17       
+| 680          R18       
+| 680          R21       
+| 1000         R22       
+| 10K          R5        
+| 10K          R7        
+| 10K          R8        
+| 10k          R10       
+| 10K          R12       
+| 10K          R14       
+| 10K          R23       
+| 10K          R24       
+| 10k          R31       
+| 10k          R32       
+| 10k          R33       
+| 4.7M         R9        
+| 4.7M         R11       
+| 4.7M         R13       
+| SIOV-S14K460 R6        
+| R            R25       
+| SIOV-S14K460 R26       
+| SIOV-S14K460 R27       
+| R            R28       
+| R            R29       
+| R            R30       
+| TRANSFO      T1        
+| TRANSFO      T2        
+| 7805         U6        
+| MC9S08SH8    U1        
+| LM339        U2        
+| OPTO-TRIAC   U3        
+| OPTO-TRIAC   U4        
+| OPTO-TRIAC   U5        
+| VR           VR4       
+| 12 MHZ       X1        
+#Fin Componentes
+
+#Fin de Lista
