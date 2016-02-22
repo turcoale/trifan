@@ -1,9 +1,9 @@
-Agrandar el foodprint de las resistencias de snuber
+Agrandar el foodprint de las resistencias de snuber 20mm
 sacar los puentes
 mejorar foodprint de varistor
 separar capacitores de las resistencias de snuber
 cambiar de lugar cap de filtro c11
-resistencia cristal
-alimentacion lm
-cambiar el pin que dispara el triac al diome
+*resistencia cristal
+*alimentacion lm
+*cambiar el pin que dispara el triac al diome
 

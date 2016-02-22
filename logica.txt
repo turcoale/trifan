@@ -1,0 +1,143 @@
+Reading netlist file "/home/turco/Dropbox/variador-dos-partes (segunda edicion)/logica.net".
+Using component footprint link file "/home/turco/Dropbox/variador-dos-partes (segunda edicion)/logica.cmp".
+Checking netlist component footprint "C1:/516967BB:C1".
+Adding new component "C1:/516967BB" footprint "C1".
+Changing component "C1:/516967BB" pin "1" net name from "" to "/sensor".
+Changing component "C1:/516967BB" pin "2" net name from "" to "GND".
+Checking netlist component footprint "C2:/50872368:C1".
+Adding new component "C2:/50872368" footprint "C1".
+Changing component "C2:/50872368" pin "1" net name from "" to "/XTAL".
+Changing component "C2:/50872368" pin "2" net name from "" to "GND".
+Checking netlist component footprint "C3:/50872288:C1V5".
+Adding new component "C3:/50872288" footprint "C1V5".
+Changing component "C3:/50872288" pin "1" net name from "" to "/vreg".
+Changing component "C3:/50872288" pin "2" net name from "" to "GND".
+Checking netlist component footprint "C4:/50872278:C1".
+Adding new component "C4:/50872278" footprint "C1".
+Changing component "C4:/50872278" pin "1" net name from "" to "/vreg".
+Changing component "C4:/50872278" pin "2" net name from "" to "GND".
+Checking netlist component footprint "C5:/50872365:C1".
+Adding new component "C5:/50872365" footprint "C1".
+Changing component "C5:/50872365" pin "1" net name from "" to "/EXTAL".
+Changing component "C5:/50872365" pin "2" net name from "" to "GND".
+Checking netlist component footprint "C6:/50872515:C1".
+Adding new component "C6:/50872515" footprint "C1".
+Changing component "C6:/50872515" pin "1" net name from "" to "/RESET".
+Changing component "C6:/50872515" pin "2" net name from "" to "GND".
+Checking netlist component footprint "CON1:/50872459:PHOENIX_MSTBA2,54-G_3".
+Adding new component "CON1:/50872459" footprint "PHOENIX_MSTBA2,54-G_3".
+Changing component "CON1:/50872459" pin "1" net name from "" to "/BDM".
+Changing component "CON1:/50872459" pin "1" net name from "" to "/BDM".
+Changing component "CON1:/50872459" pin "1" net name from "" to "/BDM".
+Changing component "CON1:/50872459" pin "1" net name from "" to "/BDM".
+Changing component "CON1:/50872459" pin "2" net name from "" to "GND".
+Changing component "CON1:/50872459" pin "3" net name from "" to "N-0000018".
+Checking netlist component footprint "CON2:/519D5B21:pin_array_13x2".
+Adding new component "CON2:/519D5B21" footprint "pin_array_13x2".
+Changing component "CON2:/519D5B21" pin "1" net name from "" to "GND".
+Changing component "CON2:/519D5B21" pin "2" net name from "" to "/sensor".
+Changing component "CON2:/519D5B21" pin "3" net name from "" to "/vreg".
+Checking netlist component footprint "CON3:/520B86B5:pin_array_3x2".
+Adding new component "CON3:/520B86B5" footprint "pin_array_3x2".
+Changing component "CON3:/520B86B5" pin "1" net name from "" to "GND".
+Changing component "CON3:/520B86B5" pin "2" net name from "" to "/IC".
+Changing component "CON3:/520B86B5" pin "3" net name from "" to "GND".
+Changing component "CON3:/520B86B5" pin "4" net name from "" to "/SC".
+Changing component "CON3:/520B86B5" pin "5" net name from "" to "GND".
+Changing component "CON3:/520B86B5" pin "6" net name from "" to "/RC".
+Checking netlist component footprint "D1:/509AB92B:LED-5MM".
+Adding new component "D1:/509AB92B" footprint "LED-5MM".
+Changing component "D1:/509AB92B" pin "1" net name from "" to "/Led1".
+Changing component "D1:/509AB92B" pin "2" net name from "" to "N-0000022".
+Checking netlist component footprint "D2:/520BE832:LED-5MM".
+Adding new component "D2:/520BE832" footprint "LED-5MM".
+Changing component "D2:/520BE832" pin "1" net name from "" to "/vreg".
+Changing component "D2:/520BE832" pin "2" net name from "" to "N-0000015".
+Checking netlist component footprint "JP1:/516979AF:PIN_ARRAY_2X1".
+Adding new component "JP1:/516979AF" footprint "PIN_ARRAY_2X1".
+Changing component "JP1:/516979AF" pin "1" net name from "" to "N-0000014".
+Changing component "JP1:/516979AF" pin "2" net name from "" to "/sensor".
+Checking netlist component footprint "JP2:/5169732A:PIN_ARRAY_2X1".
+Adding new component "JP2:/5169732A" footprint "PIN_ARRAY_2X1".
+Changing component "JP2:/5169732A" pin "1" net name from "" to "/select".
+Changing component "JP2:/5169732A" pin "2" net name from "" to "GND".
+Checking netlist component footprint "JP3:/51D3FFC1:PIN_ARRAY_2X1".
+Adding new component "JP3:/51D3FFC1" footprint "PIN_ARRAY_2X1".
+Changing component "JP3:/51D3FFC1" pin "1" net name from "" to "/RESET".
+Changing component "JP3:/51D3FFC1" pin "2" net name from "" to "GND".
+Checking netlist component footprint "POT1:/51D40791:CVAR3X2".
+Adding new component "POT1:/51D40791" footprint "CVAR3X2".
+Changing component "POT1:/51D40791" pin "1" net name from "" to "N-0000013".
+Changing component "POT1:/51D40791" pin "2" net name from "" to "N-0000014".
+Changing component "POT1:/51D40791" pin "3" net name from "" to "N-0000014".
+Checking netlist component footprint "R1:/508DAF50:R3".
+Adding new component "R1:/508DAF50" footprint "R3".
+Changing component "R1:/508DAF50" pin "1" net name from "" to "GND".
+Changing component "R1:/508DAF50" pin "2" net name from "" to "N-0000013".
+Checking netlist component footprint "R2:/509AB933:R3".
+Adding new component "R2:/509AB933" footprint "R3".
+Changing component "R2:/509AB933" pin "1" net name from "" to "GND".
+Changing component "R2:/509AB933" pin "2" net name from "" to "N-0000022".
+Checking netlist component footprint "R3:/51697270:R3".
+Adding new component "R3:/51697270" footprint "R3".
+Changing component "R3:/51697270" pin "1" net name from "" to "/vreg".
+Changing component "R3:/51697270" pin "2" net name from "" to "/select".
+Checking netlist component footprint "R4:/520BE82C:R3".
+Adding new component "R4:/520BE82C" footprint "R3".
+Changing component "R4:/520BE82C" pin "1" net name from "" to "GND".
+Changing component "R4:/520BE82C" pin "2" net name from "" to "N-0000015".
+Checking netlist component footprint "R5:/519D5358:R3".
+Adding new component "R5:/519D5358" footprint "R3".
+Changing component "R5:/519D5358" pin "1" net name from "" to "/XTAL".
+Changing component "R5:/519D5358" pin "2" net name from "" to "/EXTAL".
+Checking netlist component footprint "R6:/5087250E:R3".
+Adding new component "R6:/5087250E" footprint "R3".
+Changing component "R6:/5087250E" pin "1" net name from "" to "/vreg".
+Changing component "R6:/5087250E" pin "2" net name from "" to "/RESET".
+Checking netlist component footprint "TP1:/51D41C27:PIN_ARRAY_1".
+Adding new component "TP1:/51D41C27" footprint "PIN_ARRAY_1".
+Changing component "TP1:/51D41C27" pin "1" net name from "" to "/OPT1".
+Checking netlist component footprint "TP2:/51D41CBA:PIN_ARRAY_1".
+Adding new component "TP2:/51D41CBA" footprint "PIN_ARRAY_1".
+Changing component "TP2:/51D41CBA" pin "1" net name from "" to "/IC".
+Checking netlist component footprint "TP3:/51D41C37:PIN_ARRAY_1".
+Adding new component "TP3:/51D41C37" footprint "PIN_ARRAY_1".
+Changing component "TP3:/51D41C37" pin "1" net name from "" to "/OPT2".
+Checking netlist component footprint "TP4:/51D41CC3:PIN_ARRAY_1".
+Adding new component "TP4:/51D41CC3" footprint "PIN_ARRAY_1".
+Changing component "TP4:/51D41CC3" pin "1" net name from "" to "/RC".
+Checking netlist component footprint "TP5:/51D41C41:PIN_ARRAY_1".
+Adding new component "TP5:/51D41C41" footprint "PIN_ARRAY_1".
+Changing component "TP5:/51D41C41" pin "1" net name from "" to "/OPT3".
+Checking netlist component footprint "TP6:/51D41CC9:PIN_ARRAY_1".
+Adding new component "TP6:/51D41CC9" footprint "PIN_ARRAY_1".
+Changing component "TP6:/51D41CC9" pin "1" net name from "" to "/SC".
+Checking netlist component footprint "TP7:/51D41CD4:PIN_ARRAY_1".
+Adding new component "TP7:/51D41CD4" footprint "PIN_ARRAY_1".
+Changing component "TP7:/51D41CD4" pin "1" net name from "" to "/TC".
+Checking netlist component footprint "U1:/508721E1:DIP-20__300_ELL".
+Adding new component "U1:/508721E1" footprint "DIP-20__300_ELL".
+Changing component "U1:/508721E1" pin "1" net name from "" to "/RESET".
+Changing component "U1:/508721E1" pin "2" net name from "" to "/BDM".
+Changing component "U1:/508721E1" pin "3" net name from "" to "/vreg".
+Changing component "U1:/508721E1" pin "4" net name from "" to "GND".
+Changing component "U1:/508721E1" pin "5" net name from "" to "/EXTAL".
+Changing component "U1:/508721E1" pin "6" net name from "" to "/XTAL".
+Changing component "U1:/508721E1" pin "7" net name from "" to "/Led1".
+Changing component "U1:/508721E1" pin "8" net name from "" to "/GM".
+Changing component "U1:/508721E1" pin "9" net name from "" to "/sensor".
+Changing component "U1:/508721E1" pin "10" net name from "" to "/c_Flash".
+Changing component "U1:/508721E1" pin "11" net name from "" to "/OPT3".
+Changing component "U1:/508721E1" pin "12" net name from "" to "/OPT2".
+Changing component "U1:/508721E1" pin "13" net name from "" to "/OPT1".
+Changing component "U1:/508721E1" pin "14" net name from "" to "/TC".
+Changing component "U1:/508721E1" pin "15" net name from "" to "/Alarma".
+Changing component "U1:/508721E1" pin "16" net name from "" to "/Temp".
+Changing component "U1:/508721E1" pin "17" net name from "" to "/RC".
+Changing component "U1:/508721E1" pin "18" net name from "" to "/SC".
+Changing component "U1:/508721E1" pin "19" net name from "" to "/select".
+Changing component "U1:/508721E1" pin "20" net name from "" to "/IC".
+Checking netlist component footprint "X1:/508723BE:HC-49V".
+Adding new component "X1:/508723BE" footprint "HC-49V".
+Changing component "X1:/508723BE" pin "1" net name from "" to "/XTAL".
+Changing component "X1:/508723BE" pin "2" net name from "" to "/EXTAL".
