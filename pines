@@ -1,21 +1,22 @@
 PIN	SEÑAL
+
 1	RESET
 2	BDM
 3	VCC
 4	GND
-5	EXTAL
-6	XTAL	
+5	R
+6	G	
 7	RC (Cruce de la tension fase R)
 8	GUARDA MOTOR
 9	Sensor
-10	Clear_Flash
+10	B
 11	TC (Cruce de la tension fase T)
 12	SC (Cruce de la tension fase Sm)
 13	OPTO1
 14	OPTO3
 15	Alarma
-16	Temp
-17	LED
+16	SP	(PRESET SET POINT)
+17	NM
 18	OPTO2
 19	SELECT	(SELECCIONA TIPO DE SENSOR)
-20	IC (CRUCE DE LA CORRIENTE)
+20	PM
